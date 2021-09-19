@@ -19,7 +19,6 @@ This is **bold** and this is *italic*
 
 ---
 
-http://github.com - 
 [Link to GitHub](http://github.com)
 
 ---
