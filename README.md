@@ -37,3 +37,4 @@ Block-quotes by adding \> in front of each line like so:
 ---
 Example of an image!
 
+![SCIENCE](/images/science.png)
