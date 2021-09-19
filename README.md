@@ -8,3 +8,8 @@ This is an example of a GitHub Readme.
 
 ---
 Horizontal ruler
+
+This is **bold** and this is *italic*
+
+* Bullet point
+  * sub-bullet point
