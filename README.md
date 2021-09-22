@@ -3,7 +3,13 @@
 This is an example of a GitHub Readme.
 
 # Header 1
+
+**This text is bold** 
+
 ## Header 2
+
+Literal use of an asterisk: \*
+
 ### Header 3
 
 ---
