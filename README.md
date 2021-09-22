@@ -1,19 +1,18 @@
 # github-lnl-demo
-
 This is an example of a GitHub Readme.
 
-# Header 1
 
-**This text is bold** 
+# Header 1: Bold and Italics
+This is **bold text** and this is *italic text*
 
-## Header 2
-
+## Header 2: Escaping asterisk
 Literal use of an asterisk: \*
 
-### Header 3
+### Header 3: Important Tip
+You can linebreak by adding two or more spaces to the end of text  
+like so
 
-This is **bold** and this is *italic*
-
+## Lists
 * Bullet point
   * sub-bullet point
 
@@ -24,23 +23,16 @@ This is **bold** and this is *italic*
 2. Also numbered
     1. Sub numbered
 
----
-
+## Links
 [Link to GitHub](http://github.com)
 
----
-
-*Important Tip!*
-You can linebreak by adding two or more spaces to the end of text  
-like so
-
----
+## Block Quotes
 Block-quotes by adding \> in front of each line like so:
 > This is a block quote!  
 > It quotes things.
 >> And you can nest quotes within quotes by adding an extra \>
 
----
+## Images
 Example of an image!
 
 ![SCIENCE](/images/science.png)
