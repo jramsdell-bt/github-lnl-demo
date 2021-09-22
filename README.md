@@ -17,6 +17,9 @@ This is **bold** and this is *italic*
 * Bullet point
   * sub-bullet point
 
+ - Also a bullet point
+   - Another sub-bullet point
+
 1. Numbered
 2. Also numbered
     1. Sub numbered
