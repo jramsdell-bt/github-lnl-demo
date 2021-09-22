@@ -12,8 +12,6 @@ Literal use of an asterisk: \*
 
 ### Header 3
 
----
-
 This is **bold** and this is *italic*
 
 * Bullet point
