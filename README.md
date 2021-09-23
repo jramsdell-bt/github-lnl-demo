@@ -8,14 +8,8 @@ This is **bold text** and this is *italic text*
 ## Header 2: Escaping asterisk
 Literal use of an asterisk: \*
 
-### Header 3: Important Tip
-Markdown doesn't automatically add a linebreak
-after text like this. 
 
-You can linebreak by adding two or more spaces to the end of text  
-like so
-
-## Lists
+### Header 3: Lists
 * Bullet point
   * sub-bullet point
 
@@ -33,3 +27,10 @@ like so
 Example of an image!
 
 ![SCIENCE](/images/science.png)
+
+### Important Tip
+Markdown doesn't automatically add a linebreak
+after text like this. 
+
+You can linebreak by adding two or more spaces to the end of text  
+like so
