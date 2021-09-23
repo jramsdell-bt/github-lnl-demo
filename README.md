@@ -29,12 +29,6 @@ like so
 ## Links
 [Link to GitHub](http://github.com)
 
-## Block Quotes
-Block-quotes by adding \> in front of each line like so:
-> This is a block quote!  
-> It quotes things.
->> And you can nest quotes within quotes by adding an extra \>
-
 ## Images
 Example of an image!
 
