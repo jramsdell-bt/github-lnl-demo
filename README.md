@@ -28,9 +28,3 @@ Example of an image!
 
 ![SCIENCE](/images/science.png)
 
-### Important Tip
-Markdown doesn't automatically add a linebreak
-after text like this. 
-
-You can linebreak by adding two or more spaces to the end of text  
-like so
